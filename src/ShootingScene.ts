@@ -213,9 +213,6 @@ export class ShootingScene extends Container implements IScene {
     if (this.elapsedFrames % 60 === 0) {
       this.spawnEnemies()
     }
-    // if (this.elapsedFrames === 60) {
-    //   this.spawnEnemies()
-    // }
   }
 
   addEventLesteners (): void {

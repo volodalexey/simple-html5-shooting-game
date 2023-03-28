@@ -2,7 +2,7 @@
 
 # [DEMO](https://volodalexey.github.io/simple-html5-shooting-game/)
 
-Originally created by [Christopher Lis](https://github.com/christopher4lis) in following YouTube video [HTML5 Canvas and JavaScript Game Tutorial](https://www.youtube.com/watch?v=eI9idPTT0c4)
+Originally created by [Christopher Lis](https://github.com/christopher4lis) as [HTML5-Canvas-and-JavaScript-Games-for-Beginners](https://github.com/chriscourses/HTML5-Canvas-and-JavaScript-Games-for-Beginners) in following YouTube video [HTML5 Canvas and JavaScript Game Tutorial](https://www.youtube.com/watch?v=eI9idPTT0c4)
 
 Refactored to use [PixiJS](https://pixijs.com/) game engine and [TypeScript](https://www.typescriptlang.org/) with touch/mouse support
 
